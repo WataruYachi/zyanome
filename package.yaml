@@ -24,7 +24,9 @@ dependencies:
 - text
 - bytestring
 - megaparsec
-- ncurses
+- vty-crossplatform
+- vty
+- brick
 
 ghc-options:
 - -Wall
